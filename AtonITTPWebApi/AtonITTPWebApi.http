@@ -1,0 +1,6 @@
+@AtonITTPWebApi_HostAddress = http://localhost:5174
+
+GET {{AtonITTPWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
